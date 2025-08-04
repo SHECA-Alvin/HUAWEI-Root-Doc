@@ -1,0 +1,69 @@
+# UCA Extended Validation Root中级根
+
+| UCA Extended Validation Root | 代码签名   | SHECA EV Code Signing CA G2                   |
+| ---------------------------- | ---------- | --------------------------------------------- |
+|                              | EV代码签名 | SHECA EV Code Signing CA G3                   |
+|                              | 代码签名   | SHECA RSA Extended Validation Code Signing CA |
+|                              | EV代码签名 | SHECA Extended Validation Code Signing CA     |
+|                              | EV SSL     | SHECA EV Server CA G3                         |
+|                              | EV SSL     | SHECA Extended Validation SSL CA              |
+|                              | SSL        | SHECA OV Server CA G7                         |
+|                              | SSL        | SHECA OV Server CA G6                         |
+|                              | EV SSL     | SHECA RSA Extended Validation Server CA       |
+
+# UCA Global G2 Root 中级根
+
+# 
+
+| UCA Global G2 Root | 代码签名 | SHECA Code Signing CA G4                       |
+| ------------------ | -------- | ---------------------------------------------- |
+|                    | 代码签名 | SHECA Global G3 Code Signing                   |
+|                    | 代码签名 | SHECA RSA Code Signing CA G3                   |
+|                    | 代码签名 | SHECA Code Signing CA G5                       |
+|                    | SSL      | SHECA FREE DV TLS RSA CA G1                    |
+|                    | SSL      | SHECA FREE DV TLS ECC CA G2                    |
+|                    | SSL      | SHECA DV Server CA G5                          |
+|                    | SSL      | SHECA DV TLS ECC CA G6                         |
+|                    | SSL      | SHECA EV Server CA G2                          |
+|                    | SSL      | SHECA Global G3 SSL                            |
+|                    | SSL      | SHECA OV Server CA G5                          |
+|                    | SSL      | SHECA OV TLS ECC CA G6                         |
+|                    | SSL      | SHECA RSA Domain Validation Server CA G3       |
+|                    | SSL      | SHECA RSA Organization Validation Server CA G3 |
+|                    | SSL      | KeepTrust DV TLS RSA CA G2                     |
+|                    | SSL      | KeepTrust OV TLS RSA CA G2                     |
+|                    | SSL      | KeepTrust DV TLS RSA CA G1                     |
+|                    | SSL      | KeepTrust OV TLS RSA CA G1                     |
+|                    | SSL      | DNSPod DV TLS RSA CA G1                        |
+|                    | SSL      | DNSPod DV TLS ECC CA G1                        |
+|                    | SSL      | DNSPod OV TLS RSA CA G1                        |
+|                    | SSL      | DNSPod OV TLS ECC CA G1                        |
+|                    | SSL      | sslTrus RSA DV TLS CA G2                       |
+|                    | SSL      | sslTrus RSA OV TLS CA G2                       |
+|                    | SSL      | sslTrus ECC DV TLS CA G2                       |
+|                    | SSL      | sslTrus ECC OV TLS CA G2                       |
+|                    | SSL      | Keymatic Secure Domain RSA CA G1               |
+|                    | SSL      | Keymatic Secure Business RSA CA G1             |
+|                    | SSL      | Keymatic Secure Domain ECC CA G1               |
+|                    | SSL      | Keymatic Secure Business ECC CA G1             |
+|                    | SSL      | CT2 DV TLS RSA CA G1                           |
+|                    | SSL      | CT2 OV TLS RSA CA G1                           |
+|                    | SSL      | HTTPS Automation Research RSA DV SSL CA G1     |
+|                    | SSL      | ZoTrus RSA DV SSL CA                           |
+|                    | SSL      | ZoTrus RSA OV SSL CA                           |
+|                    | SSL      | ZoTrus RSA DV SSL CA G1                        |
+|                    | SSL      | ZoTrus RSA OV SSL CA G1                        |
+|                    | SSL      | Xinnet DV SSL                                  |
+|                    | SSL      | Xinnet OV SSL                                  |
+|                    | SSL      | JoySSL DV Secure Server CA                     |
+|                    | SSL      | JoySSL OV Secure Server CA                     |
+|                    | SSL      | JoySSL DV Secure Server CA G1                  |
+|                    | SSL      | JoySSL OV Secure Server CA G1                  |
+|                    | SSL      | TrustAsia RSA OV TLS CA - S1                   |
+|                    | SSL      | TrustAsia RSA DV TLS CA - S1                   |
+|                    | 时间戳   | SHECA Time Stamping CA G2                      |
+|                    | 时间戳   | SHECA RSA Time Stamp Authority G1              |
+|                    | S/MIME   | SHECA SMIME CA G1                              |
+|                    | S/MIME   | SHECA MV SMIME RSA CA G1                       |
+|                    | S/MIME   | SHECA IV SMIME RSA CA G1                       |
+|                    | S/MIME   | SHECA OV SMIME RSA CA G1                       |
