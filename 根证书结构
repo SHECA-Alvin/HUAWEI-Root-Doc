@@ -1,7 +1,8 @@
 # UCA Extended Validation Root中级根
 
-| UCA Extended Validation Root | 代码签名   | SHECA EV Code Signing CA G2                   |
+| 根名称                       | 用途       | 中级根名称                                    |
 | ---------------------------- | ---------- | --------------------------------------------- |
+| UCA Extended Validation Root | 代码签名   | SHECA EV Code Signing CA G2                   |
 |                              | EV代码签名 | SHECA EV Code Signing CA G3                   |
 |                              | 代码签名   | SHECA RSA Extended Validation Code Signing CA |
 |                              | EV代码签名 | SHECA Extended Validation Code Signing CA     |
@@ -13,10 +14,9 @@
 
 # UCA Global G2 Root 中级根
 
-# 
-
-| UCA Global G2 Root | 代码签名 | SHECA Code Signing CA G4                       |
+| 根名称             | 用途     | 中级根名称                                     |
 | ------------------ | -------- | ---------------------------------------------- |
+| UCA Global G2 Root | 代码签名 | SHECA Code Signing CA G4                       |
 |                    | 代码签名 | SHECA Global G3 Code Signing                   |
 |                    | 代码签名 | SHECA RSA Code Signing CA G3                   |
 |                    | 代码签名 | SHECA Code Signing CA G5                       |
